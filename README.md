@@ -1,23 +1,18 @@
 # Typing Bot
 
 <p align="center">
-  ![Autor etoshy](https://img.shields.io/badge/Autor-etoshy-blue?style=for-the-badge&logo=github)
-  ![Versão 1.1](https://img.shields.io/badge/Versão-1.1-brightgreen?style=for-the-badge)
-  ![Licença MIT](https://img.shields.io/badge/Licença-MIT-lightgrey?style=for-the-badge)
-  ![Feito para Monkeytype](https://img.shields.io/badge/Feito%20para-Monkeytype-yellow?style=for-the-badge)
+<img src="https://img.shields.io/badge/Autor-etoshy-blue?style=for-the-badge&logo=github" alt="Autor etoshy">
+<img src="https://img.shields.io/badge/Versão-1.1-brightgreen?style=for-the-badge" alt="Versão 1.1">
+<img src="https://img.shields.io/badge/Licença-MIT-lightgrey?style=for-the-badge" alt="Licença MIT">
+<img src="https://img.shields.io/badge/Feito%20para-Monkeytype-yellow?style=for-the-badge" alt="Feito para Monkeytype">
 </p>
-
-Este é um script de alto desempenho para **Tampermonkey**, projetado para automatizar testes de digitação no site [monkeytype.com](https://monkeytype.com/). Ele utiliza um método inteligente e autocorretivo para alcançar a máxima velocidade e precisão, garantindo uma performance quase perfeita.
-
-O projeto foi desenvolvido por **[etoshy](https://github.com/etoshy)** como um exercício de programação e prova de conceito.
-
-## Resultados Obtidos
-
-Resultados obtidos utilizando o bot no modo mais rápido (`ultra`):
-
+Este é um script de alto desempenho para Tampermonkey, projetado para automatizar testes de digitação no site monkeytype.com. Ele utiliza um método inteligente e autocorretivo para alcançar a máxima velocidade e precisão, garantindo uma performance quase perfeita.
+O projeto foi desenvolvido por etoshy como um exercício de programação e prova de conceito.
+Resultados Obtidos
+Resultados obtidos utilizando o bot no modo mais rápido (ultra):
 <p align="center">
   <img src="image.webp" alt="Resultado de WPM obtido com o bot" width="48%">
-   
+   
   <img src="imagem1.webp" alt="Outro resultado de WPM obtido com o bot" width="48%">
 </p>
 
