@@ -8,8 +8,9 @@
 </p>
 Este é um script de alto desempenho para Tampermonkey, projetado para automatizar testes de digitação no site monkeytype.com. Ele utiliza um método inteligente e autocorretivo para alcançar a máxima velocidade e precisão, garantindo uma performance quase perfeita.
 O projeto foi desenvolvido por etoshy como um exercício de programação e prova de conceito.
-Resultados Obtidos
-Resultados obtidos utilizando o bot no modo mais rápido (ultra):
+
+
+Resultados obtidos utilizando o bot no modo mais rápido:
 <p align="center">
   <img src="image.webp" alt="Resultado de WPM obtido com o bot" width="48%">
    
